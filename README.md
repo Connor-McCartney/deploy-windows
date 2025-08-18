@@ -1,6 +1,6 @@
 ```
 cd C:\Users\crm36\AppData\Local\Temp\
-wget https://raw.githubusercontent.com/Connor-McCartney/deploy-windows/refs/heads/main/install.ps1
+wget -o install.ps1 https://raw.githubusercontent.com/Connor-McCartney/deploy-windows/refs/heads/main/install.ps1
 .\install.ps1
 ```
 
