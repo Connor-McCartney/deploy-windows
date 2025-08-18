@@ -33,3 +33,9 @@ alacritty (note: might not work in a VM):
 <br>
 
 
+Comic Mono font:
+
+<https://dtinth.github.io/comic-mono-font>
+
+<br>
+
