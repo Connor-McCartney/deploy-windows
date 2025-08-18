@@ -7,3 +7,4 @@ scoop install git python fzf neovim gcc clangd make cmake komorebi autohotkey
 
 git clone https://github.com/connor-mccartney/deploy-arch-hyprland
 mv .\deploy-arch-hyprland\dotfiles\.config\nvim\ C:\Users\crm36\AppData\Local\
+mv .\deploy-arch-hyprland\dotfiles\.wallpapers\ ~
