@@ -32,9 +32,4 @@ alacritty (note: might not work in a VM):
 
 <br>
 
-neovide:
-
-<https://neovide.dev>
-
-<br>
 
