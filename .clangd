@@ -1,0 +1,10 @@
+CompileFlags:
+  Add:
+    - -isystem
+    - C:\Users\crm36\scoop\apps\gcc\current\lib\gcc\x86_64-w64-mingw32\current\include
+    - -isystem
+    - C:\Users\crm36\scoop\apps\gcc\current\x86_64-w64-mingw32\include
+    - -isystem
+    - C:\Users\crm36\scoop\apps\gcc\current\include
+    - -isystem
+    - C:\Users\crm36\scoop\apps\gcc\current\lib\gcc\x86_64-w64-mingw32\current\include-fixed
