@@ -34,3 +34,8 @@
 {
     Send ":w{Enter}"
 }
+
+~Lwin::
+{
+    Send "{Blind}{vkE8}"
+}
