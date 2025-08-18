@@ -32,3 +32,9 @@ alacritty:
 
 <br>
 
+neovide:
+
+<https://neovide.dev>
+
+<br>
+
