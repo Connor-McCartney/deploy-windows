@@ -6,6 +6,7 @@ Set-Alias l ls
 Set-Alias c cd
 #Set-Alias v neovide
 Set-Alias v nvim
+Set-Alias p python
 
 
 function fzf {
@@ -18,6 +19,7 @@ function cc {
     $selection = fzf
     cd $selection
 }
+
 
 function vv {
     cd ~
