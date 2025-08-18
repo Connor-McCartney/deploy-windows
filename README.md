@@ -25,3 +25,10 @@ waterfox:
 <https://www.waterfox.net/download>
 
 <br>
+
+alacritty:
+
+<https://alacritty.org>
+
+<br>
+
