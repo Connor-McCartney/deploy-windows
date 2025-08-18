@@ -12,3 +12,7 @@ mv .\deploy-arch-hyprland\dotfiles\.wallpapers\ ~
 wget -o $profile https://raw.githubusercontent.com/Connor-McCartney/deploy-windows/refs/heads/main/profile.ps1
 
 # edit python path in ~\AppData\Local\nvim\lsp\basedpyright.lua
+
+
+mkdir ~\AppData\Roaming\alacritty
+wget -o ~\AppData\Roaming\alacritty/alacritty.toml https://raw.githubusercontent.com/Connor-McCartney/deploy-arch-hyprland/refs/heads/main/dotfiles/.config/alacritty/alacritty.toml
