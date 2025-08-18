@@ -26,7 +26,7 @@ waterfox:
 
 <br>
 
-alacritty:
+alacritty (note: might not work in a VM):
 
 <https://alacritty.org>
 
