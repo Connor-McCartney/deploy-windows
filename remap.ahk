@@ -11,7 +11,8 @@
 ; close with win-w
 #w::
 {
-    Send "!{F4}"
+    ;Send "!{F4}"
+    Send "!{Space}{Up}{Enter}"
 }
 
 
