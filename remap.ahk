@@ -4,8 +4,8 @@
 #Enter::
 {
     Run("C:\Program Files\Alacritty\alacritty.EXE")
-    Sleep 500
-    Send "!{Escape}"
+    ;Sleep 500
+    ;Send "!{Escape}"
 }
 
 ; close with win-w
