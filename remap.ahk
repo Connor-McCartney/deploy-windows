@@ -12,7 +12,8 @@
 #w::
 {
     ;Send "!{F4}"
-    Send "!{Space}{Up}{Enter}"
+    ;Send "!{Space}{Up}{Enter}"
+    Send "!+{q}"  ; alt-shift-q in glazeWM
 }
 
 
@@ -31,8 +32,7 @@
 ; win-tab
 #Tab::
 {
-    ; Send "!{Escape}" ; alt tab
-    ; Send "!{l}" ; alt l in glazeWM
+    Send "!{Escape}" ; alt tab
 }
 
 ; vim save
