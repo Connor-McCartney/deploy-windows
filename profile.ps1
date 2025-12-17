@@ -1,5 +1,5 @@
 if ($Host.Name -ne 'ConsoleHost') {return}
-cd ~/Documents
+cd ~/t
 
 
 Set-Alias l ls
