@@ -4,7 +4,7 @@ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 
 scoop install git # required to install buckets
 scoop bucket add extras
-scoop install python fzf fd bat neovim gcc clangd make cmake autohotkey gdb which glazewm
+scoop install python fzf fd bat neovim gcc clangd make cmake autohotkey gdb which glazewm zebar
 
 git clone https://github.com/connor-mccartney/deploy-arch-hyprland
 mv .\deploy-arch-hyprland\dotfiles\.config\nvim\ C:\Users\crm36\AppData\Local\
