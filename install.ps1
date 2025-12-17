@@ -18,6 +18,10 @@ wget -o $profile https://raw.githubusercontent.com/Connor-McCartney/deploy-windo
 
 
 mkdir ~\AppData\Roaming\alacritty
+wget -o ~\AppData\Roaming\alacritty/alacritty.toml https://raw.githubusercontent.com/Connor-McCartney/deploy-arch-hyprland/refs/heads/main/dotfiles/.config/alacritty/alacritty.toml
+
+
 wget -o ~\remap.ahk https://raw.githubusercontent.com/Connor-McCartney/deploy-windows/refs/heads/main/remap.ahk
-
-
+wget -o ~\autostart.ps1 https://raw.githubusercontent.com/Connor-McCartney/deploy-windows/refs/heads/main/autostart.ps1
+wget -o "~\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\startup.cmd" https://raw.githubusercontent.com/Connor-McCartney/deploy-windows/refs/heads/main/startup.cmd
+wget -o ~\.glzr\glazewm\config.yaml https://raw.githubusercontent.com/Connor-McCartney/deploy-windows/refs/heads/main/config.yaml
