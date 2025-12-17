@@ -7,6 +7,8 @@ Set-Alias c cd
 #Set-Alias v neovide
 Set-Alias v nvim
 Set-Alias p python
+function t { Set-Location ~/t }
+
 
 
 function fzf {
