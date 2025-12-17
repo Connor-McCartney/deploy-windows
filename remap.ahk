@@ -28,10 +28,11 @@
 }
 
 
-; win-tab is alt tab
+; win-tab
 #Tab::
 {
-    Send "!{Escape}"
+    ; Send "!{Escape}" ; alt tab
+    ; Send "!{l}" ; alt l in glazeWM
 }
 
 ; vim save
